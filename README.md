@@ -13,10 +13,6 @@
 
 Link trên luôn trỏ tới **bản mới nhất**. Muốn tải bản cũ hơn, xem tab [Releases](https://github.com/minaby/gau-releases/releases).
 
-## Cài đặt
-
-**macOS:** mở file `.dmg`, kéo Gau vào thư mục Applications. Lần đầu mở, vào **System Settings → Privacy & Security → Accessibility** để cấp quyền cho Gau. Việc này là bắt buộc để bộ gõ hoạt động.
-
 ## Tính năng chính
 
 Chi tiết đầy đủ xem tại [gau.io.vn](https://gau.io.vn/).
