@@ -1,7 +1,6 @@
 # Gau ~ bộ gõ tiếng Việt 🐶 cho macOS & Windows
 
 **Trang chủ:** https://gau.io.vn
-**Tin tức / changelog chi tiết:** https://gau.io.vn/news.html
 
 ## Tải xuống
 
@@ -19,11 +18,6 @@ Link trên luôn trỏ tới **bản mới nhất**. Muốn tải bản cũ hơn
 **macOS:** mở file `.dmg`, kéo Gau vào thư mục Applications. Lần đầu mở, vào **System Settings → Privacy & Security → Accessibility** để cấp quyền cho Gau. Việc này là bắt buộc để bộ gõ hoạt động.
 
 ## Tính năng chính
-
-- Gõ Telex và VNI, giao diện thuần theo hệ điều hành (tự đổi theo theme sáng/tối)
-- Tự động trả về từ gốc khi gõ không phải tiếng Việt chuẩn, không phá từ mượn
-- Gõ tắt (macro) tuỳ biến tự do — tạo/sửa/xoá dễ dàng
-- Tuỳ biến quy tắc thả dấu riêng cho từng ứng dụng - tối đa mức độ tương thích
 
 Chi tiết đầy đủ xem tại [gau.io.vn](https://gau.io.vn/).
 
