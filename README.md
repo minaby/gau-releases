@@ -1,4 +1,4 @@
-# Gau ~ bộ gõ tiếng Việt 🐶 cho macOS & Windows
+# Gau ~ bộ gõ tiếng Việt 🐶 cho macOS, Windows & iOS
 
 **Trang chủ:** https://gau.io.vn
 
